@@ -1,0 +1,21 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+
+    justify-content: center;
+    align-items: center;
+}   
+
+
+.box{
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    height: 150px;
+    background-color: #212121;
+}
+
+p{
+    color: aliceblue;
+}
